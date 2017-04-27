@@ -1,6 +1,6 @@
 # npmtest-commonmark
 
-#### test coverage for  [commonmark (v0.27.0)](http://commonmark.org)  [![npm package](https://img.shields.io/npm/v/npmtest-commonmark.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-commonmark) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-commonmark.svg)](https://travis-ci.org/npmtest/node-npmtest-commonmark)
+#### basic test coverage for  [commonmark (v0.27.0)](http://commonmark.org)  [![npm package](https://img.shields.io/npm/v/npmtest-commonmark.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-commonmark) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-commonmark.svg)](https://travis-ci.org/npmtest/node-npmtest-commonmark)
 
 #### a strongly specified, highly compatible variant of Markdown
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-commonmark/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-commonmark/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-commonmark/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-commonmark/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-commonmark/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-commonmark/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-commonmark/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-commonmark/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-commonmark/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-commonmark/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-commonmark/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-commonmark/build/coverage.html/index.html)
 
